@@ -1,0 +1,2 @@
+Para abrir el ejecutable del aplicativo se debe ir a la carpeta dist
+dentro de ella encontraremos un archivo llamado regresionL.jar lo abrimos y así ejecutaremos el programa
